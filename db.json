@@ -1,0 +1,914 @@
+[
+  {
+    "Id": 7208,
+    "Section": "00Text",
+    "Key": "APP_ACCESS_DENIED",
+    "Value": "Sorry, you are not authorised to access this information.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 25649,
+    "Section": "00Text",
+    "Key": "APP_ACCESS_DENIED_CREATE",
+    "Value": "Sorry, you are not authorised to create new documents.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-02T14:13:00"
+  },
+  {
+    "Id": 25650,
+    "Section": "00Text",
+    "Key": "APP_ACCESS_DENIED_HEADING",
+    "Value": "SECURITY VIOLATION",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-02T14:13:00"
+  },
+  {
+    "Id": 14800,
+    "Section": "00Text",
+    "Key": "APP_AUTOLOGOUT_MSG",
+    "Value": "You have been logged out due to inactivity.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11539,
+    "Section": "00Text",
+    "Key": "APP_AUTOLOGOUTNOTIFICATION_MSG",
+    "Value": "Your session will timeout in less then 5 minutes...",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7209,
+    "Section": "00Text",
+    "Key": "APP_CREATE_DENIED",
+    "Value": "Create function is not available to you.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 19441,
+    "Section": "00Text",
+    "Key": "APP_ERROR_AU_DOCSTATUS",
+    "Value": "Unable to change status. Un-Signed documents exists.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2011-06-03T13:52:00"
+  },
+  {
+    "Id": 3342,
+    "Section": "00Text",
+    "Key": "APP_ERROR_DOC_CHANGED",
+    "Value": "Another person has edited this document and your changes have not been saved.",
+    "UpdateBy": "KIn Admin",
+    "UpdateDate": "2018-04-25T11:52:00"
+  },
+  {
+    "Id": 3345,
+    "Section": "00Text",
+    "Key": "APP_ERROR_DOC_EXIST",
+    "Value": "Document reference has already been used.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 4526,
+    "Section": "00Text",
+    "Key": "APP_ERROR_FIELD_VALIdATION",
+    "Value": "Field valIdation failed.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 25651,
+    "Section": "00Text",
+    "Key": "APP_ERROR_INVALIdCONTENTEXT",
+    "Value": "Sorry, these file types are not allowed to be stored in the system  ",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-02T14:13:00"
+  },
+  {
+    "Id": 19192,
+    "Section": "00Text",
+    "Key": "APP_ERROR_INVALIdCONTENTTYPE",
+    "Value": "Sorry, these file types are not allowed to be stored in the system.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-06-07T16:54:00"
+  },
+  {
+    "Id": 16798,
+    "Section": "00Text",
+    "Key": "APP_ERROR_KPIs01_PERIOD",
+    "Value": "KPIs01 period error - Period 1 > Period2",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7031,
+    "Section": "00Text",
+    "Key": "APP_ERROR_LENGTH2048",
+    "Value": "More than 2048 characters have been entered.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6782,
+    "Section": "00Text",
+    "Key": "APP_ERROR_LENGTH512",
+    "Value": "More than 512 characters have been entered, please remove some characters otherwise it will be truncated when the document is saved.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3346,
+    "Section": "00Text",
+    "Key": "APP_ERROR_MANDA_FILEDS_BLANK",
+    "Value": "Mandatory Fields cannot be blank!",
+    "UpdateBy": "administrator",
+    "UpdateDate": "2016-03-17T13:42:00"
+  },
+  {
+    "Id": 36186,
+    "Section": "00Text",
+    "Key": "APP_ERROR_MANDA_FILEDS_NOLINK",
+    "Value": "Document can not be saved. There are no links to;",
+    "UpdateBy": "Admin Kin",
+    "UpdateDate": "2019-05-03T09:26:00"
+  },
+  {
+    "Id": 3944,
+    "Section": "00Text",
+    "Key": "APP_ERROR_SQLCMD",
+    "Value": "Unfortunately we have not been able to save the data. Please exit and try again. SQL Error #",
+    "UpdateBy": "administrator",
+    "UpdateDate": "2016-03-17T13:42:00"
+  },
+  {
+    "Id": 3353,
+    "Section": "00Text",
+    "Key": "APP_ERROR_TEXT",
+    "Value": "<span style='Padding:5px;'>An unexpected error has occured. Please try to perform the task again.</span><br/><br/><span style='Padding:5px;'>If the error occurs again then please click on the PDF icon <img src=\"images/icon_Acrobat_s.png\" border=0> to save the error details and email it to your support line.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-09-20T15:31:00"
+  },
+  {
+    "Id": 19272,
+    "Section": "00Text",
+    "Key": "APP_FOLLOW_UP_AUDIT",
+    "Value": "A follow up activity has been created.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2018-01-04T16:13:00"
+  },
+  {
+    "Id": 3347,
+    "Section": "00Text",
+    "Key": "APP_INCLUDE",
+    "Value": "Include ",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 5153,
+    "Section": "00Text",
+    "Key": "APP_LEGAL_NOTICE",
+    "Value": "&copy; Sword GRC Ltd.\r\n<strong>This is HTML</strong>",
+    "UpdateBy": "Admin Matt",
+    "UpdateDate": "2020-06-12T15:10:00"
+  },
+  {
+    "Id": 3344,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_ACCESS_ALT",
+    "Value": "<br>Click on the link below to return to the home page or you can login as a different user. <br>",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3968,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_ACCESS_ERROR",
+    "Value": "Sorry, this user is not permitted to access the page: <br>",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3359,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_BUTTON_TEXT",
+    "Value": "LOGIN",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3352,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_INVALId",
+    "Value": "InvalId login credentials, please try again.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 36185,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_LOCKED",
+    "Value": "Your account is locked, please contact administrator.",
+    "UpdateBy": "Admin Kin",
+    "UpdateDate": "2019-05-03T09:24:00"
+  },
+  {
+    "Id": 3349,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_MSG",
+    "Value": "You are currently logged in as :",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3358,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_PASSWORD_TEXT",
+    "Value": "Password :",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3360,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_PROMPT",
+    "Value": "Please login",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3351,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_ROLES",
+    "Value": "Roles",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 36822,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_SAML_NOTALLOWED",
+    "Value": "SAML SSO enabled. Login account type not allowed.",
+    "UpdateBy": "Admin Kin",
+    "UpdateDate": "2019-08-29T16:33:00"
+  },
+  {
+    "Id": 3357,
+    "Section": "00Text",
+    "Key": "APP_LOGIN_USERNAME_TEXT",
+    "Value": "Username :",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 19442,
+    "Section": "00Text",
+    "Key": "APP_MSG_STDHRS_ONSUBMIT",
+    "Value": "Unable to submit timesheet. Total hours must be greater than or equal to the standard hours.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2011-06-03T13:52:00"
+  },
+  {
+    "Id": 6783,
+    "Section": "00Text",
+    "Key": "APP_MX_DEL_ASSOC",
+    "Value": "Please delete associated documents",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6785,
+    "Section": "00Text",
+    "Key": "APP_MX_ERROR",
+    "Value": "An error has occurred, please try again",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6784,
+    "Section": "00Text",
+    "Key": "APP_MX_NOT_PRES",
+    "Value": "Item not present",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6787,
+    "Section": "00Text",
+    "Key": "APP_MX_REQ_CTL",
+    "Value": "Requires a Control",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6786,
+    "Section": "00Text",
+    "Key": "APP_MX_REQ_RISK",
+    "Value": "Requires a Risk",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 6788,
+    "Section": "00Text",
+    "Key": "APP_MX_REQ_TEST",
+    "Value": "Requires a Test",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3348,
+    "Section": "00Text",
+    "Key": "APP_NEW_ITEM_PREFIX",
+    "Value": "New",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 5154,
+    "Section": "00Text",
+    "Key": "APP_NEWS_NOTICE",
+    "Value": "4.4 UAT",
+    "UpdateBy": "Admin Vanda",
+    "UpdateDate": "2020-02-12T14:05:00"
+  },
+  {
+    "Id": 18690,
+    "Section": "00Text",
+    "Key": "APP_NOT_YET_ASSIGNED",
+    "Value": "Not Yet Assigned",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-28T12:00:00"
+  },
+  {
+    "Id": 3343,
+    "Section": "00Text",
+    "Key": "APP_RADIOBTN_ALL_TEXT",
+    "Value": "All",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 18774,
+    "Section": "00Text",
+    "Key": "APP_REF_CHANGED",
+    "Value": "Document ref changed from X to Y.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-28T12:00:00"
+  },
+  {
+    "Id": 7669,
+    "Section": "00Text",
+    "Key": "APP_ROLL_OVER_AUDIT",
+    "Value": "A new activity has been created from the current activity with the working papers but no bookings. Bookings remain with the \"old\" activity and are locked.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 19273,
+    "Section": "00Text",
+    "Key": "APP_ROLL_OVER_AUDIT",
+    "Value": "The actvity has been rolled over to next year.",
+    "UpdateBy": "administrator",
+    "UpdateDate": "2016-03-17T13:43:00"
+  },
+  {
+    "Id": 11254,
+    "Section": "00Text",
+    "Key": "APP_SEARCH",
+    "Value": "Search",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11533,
+    "Section": "00Text",
+    "Key": "APP_SELECT",
+    "Value": "[Please Select an option]",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3337,
+    "Section": "00Text",
+    "Key": "APP_SELECT_ALL_TEXT",
+    "Value": "ALL",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 16262,
+    "Section": "00Text",
+    "Key": "APP_SELECT_COMBOBOX2",
+    "Value": "NYE. Type text to search",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 9388,
+    "Section": "00Text",
+    "Key": "APP_SELECT_ONLY",
+    "Value": "Select Only",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 4736,
+    "Section": "00Text",
+    "Key": "APP_SELECT_OPTIONS",
+    "Value": "Please Select an option",
+    "UpdateBy": "administrator",
+    "UpdateDate": "2016-03-17T13:43:00"
+  },
+  {
+    "Id": 5156,
+    "Section": "00Text",
+    "Key": "APP_SELECTLIST_OPTIONS",
+    "Value": "Please select options from list",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 5155,
+    "Section": "00Text",
+    "Key": "APP_SELECTLIST_OPTIONS_HELP",
+    "Value": "Please select the Values required, use the Ctrl or Shift Keys (press down) to select multiple items.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 20883,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_ASSIGNDOC",
+    "Value": "Are you sure you want to assign selected documents?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2011-07-04T21:23:00"
+  },
+  {
+    "Id": 4740,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CANCEL_AUDIT",
+    "Value": "Are you sure you want to cancel this audit (set the cancel date to today) ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3296,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CLOSE",
+    "Value": "Are you sure you want to close the document ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 4741,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CLOSE_AUDIT",
+    "Value": "Are you sure you want to close this audit (set the close audit date to today)?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 19289,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CLOSE_RISK",
+    "Value": "Are you sure you want to close this risk without saving?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-07-28T10:38:00"
+  },
+  {
+    "Id": 11044,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_COPY_RISKS",
+    "Value": "Are you sure you want to copy new risks ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3329,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_COPYTOLIB",
+    "Value": "Are you sure you want to copy this document to the library ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 16264,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE",
+    "Value": "Are you sure you want to create Risk category summary document for the selected filters ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3366,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_ACTION",
+    "Value": "Are you sure you want to create a new action ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3338,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_AUDIT",
+    "Value": "Are you sure you want to create an activity ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3334,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_BOOKING",
+    "Value": "Are you sure you want to create bookings ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3364,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_CONTROL",
+    "Value": "Are you sure you want to create a new control ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3365,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_EVENT",
+    "Value": "Are you sure you want to create a new event ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 21918,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_EXEC",
+    "Value": "Are you sure you want to run this script?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2012-07-13T14:53:00"
+  },
+  {
+    "Id": 3330,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_PASSWORD",
+    "Value": "Are you sure you want to change the password ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2012-07-20T11:57:00"
+  },
+  {
+    "Id": 3328,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_QUESTION",
+    "Value": "Are you sure you want to create the questionnaire ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3335,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_REPORT",
+    "Value": "Are you sure you want to create the report ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3332,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CREATE_RISK",
+    "Value": "Are you sure you want to create a new risk ?",
+    "UpdateBy": "Mm Admin",
+    "UpdateDate": "2010-09-15T07:37:00"
+  },
+  {
+    "Id": 4527,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CRYSTALREPORT",
+    "Value": "Are you sure you want to create a report? It may take a few minutes to complete.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11046,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_CUTWPRISK",
+    "Value": "Are you sure you want to cut this risk?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3297,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_DELETE",
+    "Value": "Are you sure you want to delete the selected documents ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3333,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_EMAIL",
+    "Value": "Email will be sent only if the system has been configured to forward mail. Do you wish to continue ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3331,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_EXEC",
+    "Value": "Are you sure you want to execute the script code ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3298,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_EXPORT",
+    "Value": "Do you want to continue with the export ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3339,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_IMPORT",
+    "Value": "Do you want to continue with the import ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 4738,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_INITWP",
+    "Value": "",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 4737,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_LOCK_AUDIT",
+    "Value": "Are you sure you want to lock this audit ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7455,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_MX_DELCONTROL",
+    "Value": "Are you sure you want to delete this Control? All child documents will also be deleted.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7456,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_MX_DELREC",
+    "Value": "Are you sure you want to delete this Action / Recommendation? All child documents will also be deleted.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7454,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_MX_DELRISK",
+    "Value": "Are you sure you want to delete this Risk? All child documents will also be deleted.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7457,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_MX_DELTEST",
+    "Value": "Are you sure you want to delete this Test? All child documents will also be deleted.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3341,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_PASTEWPRISK",
+    "Value": "Are you sure you want to paste the following risk?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3361,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_REMOVE",
+    "Value": "Are you sure you want to remove the document ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3362,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_RESTORE",
+    "Value": "Are you sure you want to restore the document ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 7708,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_ROLLOVER_AUDIT",
+    "Value": "Are you sure you want to roll over this audit?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3363,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_SAVE",
+    "Value": "Are you sure you want to save the changes ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3773,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_SAVETREND",
+    "Value": "Are you sure you want to archive and reset the current Values ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3336,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_SCHEDULE",
+    "Value": "Are you sure you want to change the next activity date for the selected documents ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3295,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_SEARCHREF",
+    "Value": "Are you sure you want to replace the reference number with a new one ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 3327,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_STATUS",
+    "Value": "Are you sure you want to change the status ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-18T16:03:00"
+  },
+  {
+    "Id": 4739,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_UNLOCK_AUDIT",
+    "Value": "Are you sure you want to unlock this audit ?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 10910,
+    "Section": "00Text",
+    "Key": "JS_CONFIRM_UpdateRISKS",
+    "Value": "Are you sure you want to Update global scores for risks for selected business units?",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11047,
+    "Section": "00Text",
+    "Key": "lblCutWPRiskInfo",
+    "Value": "This Risk is ready to be pasted",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11208,
+    "Section": "00Text",
+    "Key": "lblDateHistoryDate",
+    "Value": "Date",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 22020,
+    "Section": "00Text",
+    "Key": "lblDateHistoryReason",
+    "Value": "Reason",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2012-10-26T08:44:00"
+  },
+  {
+    "Id": 11210,
+    "Section": "00Text",
+    "Key": "lblDateHistoryReasonErr",
+    "Value": "Please enter a Reason!",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-18T16:02:00"
+  },
+  {
+    "Id": 11206,
+    "Section": "00Text",
+    "Key": "lblDateHistoryS1",
+    "Value": "Current details",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11207,
+    "Section": "00Text",
+    "Key": "lblDateHistoryS2",
+    "Value": "Previous details",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 18907,
+    "Section": "00Text",
+    "Key": "lblDlg01Column",
+    "Value": "Predefined columns",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-28T12:00:00"
+  },
+  {
+    "Id": 18935,
+    "Section": "00Text",
+    "Key": "lblDlg01Filter",
+    "Value": "Predefined filters",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-28T12:00:00"
+  },
+  {
+    "Id": 11045,
+    "Section": "00Text",
+    "Key": "lblPasteWPRiskError",
+    "Value": "We were not able to paste selected risk",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 14802,
+    "Section": "00Text",
+    "Key": "Msg_ActionRateError_Text",
+    "Value": "The Action Rating must be set if the Control Rating is Red or Amber.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 16260,
+    "Section": "00Text",
+    "Key": "Msg_AuthorisationError_Text",
+    "Value": "You are not authorised to perform that operation.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 11538,
+    "Section": "00Text",
+    "Key": "Msg_ImpactTest_Text",
+    "Value": "The Summary Impact must be equal or higher to the highest indivIdual impact.",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 16259,
+    "Section": "00Text",
+    "Key": "Msg_ImpactTest_Title",
+    "Value": "Warning message",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 16258,
+    "Section": "00Text",
+    "Key": "MSG_OkButton",
+    "Value": "OK",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2016-03-18T16:02:00"
+  },
+  {
+    "Id": 16261,
+    "Section": "00Text",
+    "Key": "Msg_QnResponseNullError_Text",
+    "Value": "Answers to all question are required before it can be sumbitted",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 14801,
+    "Section": "00Text",
+    "Key": "Msg_RiskNetGrossError_Text",
+    "Value": "Net risk Values must be less than or equal to gross Values",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  },
+  {
+    "Id": 14803,
+    "Section": "00Text",
+    "Key": "Msg_RiskPercentageError_Text",
+    "Value": "Likelihood Percentage cannot be greater than 100",
+    "UpdateBy": "Administrator",
+    "UpdateDate": "2010-01-20T11:51:00"
+  }
+]
