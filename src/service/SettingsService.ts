@@ -6,7 +6,7 @@ export class SettingsService {
     constructor(private _httpClient: HttpClient) {}
   
     getSettings(sort: string, order: string, page: number): Observable<Setting[]> {
-      const href = 'https://mgsdevops.z33.web.core.windows.net/';
+      const href = 'https://run.mocky.io/v3/5dbd0522-8689-49bd-b335-30d8fd1b21bb';
       const requestUrl =
           `${href}?sort=${sort}&order=${order}&page=${page + 1}`;
   

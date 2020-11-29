@@ -14,7 +14,7 @@ import { Setting } from 'src/models/Setting';
 })
 export class AppComponent implements AfterViewInit {
   
-  displayedColumns: string[] = ['Section', 'Key', 'UpdatedDate'];
+  displayedColumns: string[] = ['Id', 'Section', 'Key', 'UpdateBy'];
   title = 'config-app';
   settingsService: SettingsService | null;
 
@@ -60,8 +60,12 @@ export class AppComponent implements AfterViewInit {
           console.log('data', data);
           // Flip flag to show that loading has finished.
           this.isLoading = false;
+          this.resultsLength = data.length;
 
-          return data;
+          console.log('page-index', this.paginator.pageIndex);
+
+          // simulating the response for OData pagination, below line will not be required in case of OData based server.
+          return data.slice(this.paginator.pageIndex * 10, (this.paginator.pageIndex * 10) + 10);
         }),
         catchError((error) => {
           console.log(error);
